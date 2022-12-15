@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/FullTerrain.png-27d4f2b4e43aaf17484a0c2259ef7278.stex"
+path="res://.import/FullTerrain.png-acc57719f84e5e84e9a07395dd824a00.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Asset/FullTerrain.png"
-dest_files=[ "res://.import/FullTerrain.png-27d4f2b4e43aaf17484a0c2259ef7278.stex" ]
+source_file="res://TerrainTile/FullTerrain.png"
+dest_files=[ "res://.import/FullTerrain.png-acc57719f84e5e84e9a07395dd824a00.stex" ]
 
 [params]
 
