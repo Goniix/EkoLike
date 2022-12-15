@@ -5,7 +5,10 @@ extends Sprite
 # var a = 2
 # var b = "text"
 
-func _create_terrain():
+func _terrain_create():
+	pass
+	
+func _terrain_get_tile():
 	pass
 
 # Called when the node enters the scene tree for the first time.
